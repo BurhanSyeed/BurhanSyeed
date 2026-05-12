@@ -40,7 +40,7 @@
 **Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![FTP](https://img.shields.io/badge/FTP_FileZilla-BF0000?style=flat-square&logo=filezilla&logoColor=white)
 
 ---
 
