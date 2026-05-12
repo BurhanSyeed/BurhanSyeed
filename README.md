@@ -30,6 +30,7 @@
 
 **Database**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
 **Payments & Integrations**
 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=flat-square&logo=stripe&logoColor=white)
@@ -104,9 +105,9 @@ Campus management platform handling **7,000+ students** — attendance monitorin
 
 ## 📫 Get In Touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syedburhan-ali-067302238)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:syedburhanali25@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2D4030?style=flat-square&logo=google-chrome&logoColor=white)](https://syed-burhan-portfolio-5foy.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/syedburhan)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:syedburhan@email.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2D4030?style=flat-square&logo=google-chrome&logoColor=white)](https://syedburhan.dev)
 
 ---
 
