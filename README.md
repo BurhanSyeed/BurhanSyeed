@@ -94,12 +94,23 @@ Campus management platform handling **7,000+ students** — attendance monitorin
 
 ---
 
-## 📊 GitHub Stats
+---
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=BurhanSyeed&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=4ade80&icon_color=4ade80&text_color=ffffff" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BurhanSyeed&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=4ade80&text_color=ffffff" height="160" />
-</p>
+## 🧠 Currently Working On
+
+- 🔧 Deepening **React.js** skills — hooks, state management, API integration
+- 📦 Building public Laravel + React projects to grow my GitHub
+- 📖 Exploring **PostgreSQL** and **Docker** for deployment workflows
+
+---
+
+## 💡 What I Bring to a Team
+
+- Backend systems that handle **real users and live transactions**
+- Clean database design — not just CRUD, but **proper schema architecture**
+- Payment integrations that work in production — **Stripe escrow, PayPal IPN**
+- APIs consumed by both **mobile and web** clients
+- Ownership mentality — from planning to deployment
 
 ---
 
