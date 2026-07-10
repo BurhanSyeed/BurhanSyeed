@@ -118,7 +118,7 @@ Campus management platform handling **7,000+ students** — attendance monitorin
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/syedburhan)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:syedburhan@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2D4030?style=flat-square&logo=google-chrome&logoColor=white)](https://syedburhan.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2D4030?style=flat-square&logo=google-chrome&logoColor=white)]([https://syedburhan.dev](https://syed-burhan-portfolio-5foy.vercel.app/))
 
 ---
 
