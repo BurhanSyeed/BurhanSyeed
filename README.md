@@ -48,7 +48,7 @@
 
 | Period | Role | Company |
 |---|---|---|
-| Oct 2025 – Mar 2026 | Laravel Backend Developer | AKODES IT Solutions (Onsite) |
+| Oct 2025 – Present | Laravel Backend Developer | AKODES IT Solutions (Onsite) |
 | Feb 2025 – Oct 2025 | Laravel Developer | Freelance (Remote) |
 | Jul 2023 – Feb 2025 | Laravel Developer | Softagics (Onsite) |
 
