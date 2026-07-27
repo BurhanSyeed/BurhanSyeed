@@ -1,6 +1,6 @@
 # Hi, I'm Syed Burhan Ali 👋
 
-**Laravel Backend Developer** — Building production web applications for 2+ years across fintech, healthcare, and education.
+**Laravel Backend Developer** — Building production web applications for 3+ years across fintech, healthcare, and education.
 
 ---
 
